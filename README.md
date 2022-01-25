@@ -1,5 +1,5 @@
 # Kill Lincoln
-##🦌 网页小游戏 🥛
+## 🦌 网页小游戏 🥛
 
 Fork from:https://github.com/arcxingye/EatKano
 
